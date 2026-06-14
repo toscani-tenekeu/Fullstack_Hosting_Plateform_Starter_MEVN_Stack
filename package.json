@@ -16,6 +16,7 @@
     "lint:eslint": "eslint . --fix --cache",
     "format": "prettier --write --experimental-cli src/"
   },
+  "license": "GPL-3.0-only",
   "dependencies": {
     "@clerk/vue": "^2.3.3",
     "@heroicons/vue": "^2.2.0",
