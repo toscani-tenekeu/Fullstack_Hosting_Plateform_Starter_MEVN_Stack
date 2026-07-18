@@ -22,8 +22,8 @@ coverage
 *.tsbuildinfo
 .eslintcache
 
-# Package artifacts ignored by the server project
-server/package-lock.json
+# The npm workspace lockfile is managed at the repository root
+backend/package-lock.json
 
 # OS
 .DS_Store
